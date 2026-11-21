@@ -1,0 +1,55 @@
+[
+  {
+    "id": "K1",
+    "store": "东桥",
+    "name": "白鹭拉丝",
+    "series": "白鹭",
+    "pricing": "gram",
+    "weight": 7.5,
+    "gram_price": 660,
+    "labor": 180,
+    "holdable": true
+  },
+  {
+    "id": "K2",
+    "store": "东桥",
+    "name": "白鹭镜面",
+    "series": "白鹭",
+    "pricing": "gram",
+    "weight": 8.2,
+    "gram_price": 660,
+    "labor": 220,
+    "holdable": null
+  },
+  {
+    "id": "K3",
+    "store": "东桥",
+    "name": "白鹭浮雕",
+    "series": "白鹭",
+    "pricing": "fixed",
+    "fixed_price": 4300,
+    "labor": null,
+    "holdable": true
+  },
+  {
+    "id": "K4",
+    "store": "东桥",
+    "name": "江桨",
+    "series": "江桨",
+    "pricing": "gram",
+    "weight": 4.5,
+    "gram_price": 660,
+    "labor": 120,
+    "holdable": true
+  },
+  {
+    "id": "K5",
+    "store": "西渡",
+    "name": "白鹭浮雕",
+    "series": "白鹭",
+    "pricing": "fixed",
+    "fixed_price": 4280,
+    "labor": null,
+    "holdable": true
+  }
+]
